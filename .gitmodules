@@ -1,0 +1,3 @@
+[submodule "positioncr_custom"]
+	path = positioncr_custom
+	url = https://github.com/stefanjaw/positioncr_custom.git
